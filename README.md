@@ -1,4 +1,4 @@
-# README for Banking System CLI
+# Banking System CLI
 
 ## Project Name: **Banking System CLI**
 
